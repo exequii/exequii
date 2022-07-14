@@ -5,7 +5,7 @@ Soy desarrollador web, apasionado mayormente por el frontend. Trato de especiali
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, Swift],
+   code: [Javascript, Typescript, HTML, CSS, Java, Swift, PHP, C#.Net],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
@@ -23,8 +23,8 @@ const aboutMe = {
 
 ## Mi historia ⭐
 - 🔧 Graduado en la secundaria como Tecnico Electronico.
-- 🌱 Mis primeros pasos fueron realizando la Ingenieria en Informatica. 
-- 💻 Comence la Tecnicatura en Desarrollo Web en la Universidad Nacional de la Matanza.
+- 🌱 Mis primeros pasos fueron estudiando la Ingenieria en Informatica. 
+- 💻 Estoy realizando la Tecnicatura en Desarrollo Web en la Universidad Nacional de la Matanza.
 - ⚡ Trabajo como desarrollador Frontend.
 
 
